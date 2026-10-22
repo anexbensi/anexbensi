@@ -47,6 +47,6 @@ I'm a full stack engineer building financial operations software at **OSYTE Inve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anexbensi&show_icons=true&theme=default" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anexbensi&layout=compact" alt="Top languages" height="160"/>
 </p>
